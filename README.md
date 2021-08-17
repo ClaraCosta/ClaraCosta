@@ -1,4 +1,4 @@
-### print("Olá! Sou Maria Clara, bem-vindo(a) ao meu perfil.")
+### print("Olá! Sou Maria Clara, bem-vindo(a) ao meu perfil.")<img src="https://share-cdn.picrew.me/shareImg/org/202108/426722_MR21qmJ2.png" align="right" alt="Rafa-img" height="180cm" >
 ##
 #### Sobre mim:
 
@@ -36,7 +36,8 @@
   <a href="mailto:claracostarc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
   <a href="https://www.linkedin.com/in/maria-c-03490519b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
   <a href="https://www.instagram.com/clarapcosta_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
-  <img src="https://share-cdn.picrew.me/shareImg/org/202108/426722_MR21qmJ2.png" align="right" alt="Rafa-img" height="180cm" >
-
   
+
 </div>
+
+![Snake animation](https://github.com/ClaraCosta/ClaraCosta/blob/output/github-contribution-grid-snake.svg)
