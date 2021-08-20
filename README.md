@@ -7,7 +7,7 @@
 
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaraCosta&hide=contribs,prs&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaraCosta&show=contribs,prs&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraCosta&layout=compact&theme=midnight-purple)](https://github.com/ClaraCosta/github-readme-stats)
 
 
