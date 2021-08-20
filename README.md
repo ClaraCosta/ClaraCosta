@@ -8,7 +8,9 @@
 <div>
   <a href = "https://github.com/ClaraCosta">
   <img height = "140cm" src="https://github-readme-stats.vercel.app/api?username=ClaraCosta&show_icons=true&theme=midnight-purple"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraCosta&layout=compact&langs_count=7&theme=midnight-purple"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraCosta&layout=compact&theme=midnight-purple)](https://github.com/ClaraCosta/github-readme-stats)
+
 </div>
 
 
