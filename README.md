@@ -5,13 +5,11 @@
 - 🐍 Estudando Python
 - 👩‍💻 Disposta a aprender novas tecnologias
 
-<div>
-  <a href = "https://github.com/ClaraCosta">
-  <img height = "140cm" src="https://github-readme-stats.vercel.app/api?username=ClaraCosta&show_icons=true&theme=midnight-purple"/>
 
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaraCosta&hide=contribs,prs&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraCosta&layout=compact&theme=midnight-purple)](https://github.com/ClaraCosta/github-readme-stats)
 
-</div>
 
 
 <div style="display: inline_block"><br>
