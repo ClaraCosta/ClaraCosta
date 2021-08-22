@@ -1,16 +1,19 @@
-### print("Olá! Sou Maria Clara, bem-vindo(a) ao meu perfil.")<img src="https://share-cdn.picrew.me/shareImg/org/202108/426722_MR21qmJ2.png" align="right" alt="Rafa-img" height="180cm" >
-##
+
+<img src="https://share-cdn.picrew.me/shareImg/org/202108/426722_MR21qmJ2.png" align="right" alt="Rafa-img" height="180cm" >
+<h2>print("Olá! Sou Maria Clara, bem-vindo(a) ao meu perfil.")</h2>
+
+
 #### Sobre mim:
 
 - 🐍 Estudando Python
 - 👩‍💻 Disposta a aprender novas tecnologias
 
 
+ <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaraCosta&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</p>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaraCosta&show=contribs,prs&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraCosta&layout=compact&theme=midnight-purple)](https://github.com/ClaraCosta/github-readme-stats)
-
-
+ 
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Clara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
