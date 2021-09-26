@@ -1,5 +1,5 @@
 
-<img src="https://share-cdn.picrew.me/shareImg/org/202108/426722_MR21qmJ2.png" align="right" alt="Rafa-img" height="180cm" >
+<img src="https://share-cdn.picrew.me/shareImg/org/202108/426722_MR21qmJ2.png" align="right" alt="Rafa-img" height="150em" >
 <h2>print("Olá! Sou Maria Clara, bem-vindo(a) ao meu perfil.")</h2>
 
 
