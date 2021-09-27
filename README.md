@@ -6,7 +6,9 @@
 #### Sobre mim:
 
 - 🐍 Estudando Python
+- 💻 Aprendendo Javascript, html, css
 - 👩‍💻 Disposta a aprender novas tecnologias
+- 🧠 Always open to work!
 
 <div>
   <a href="https://github.com/emilsonsn">
