@@ -1,5 +1,5 @@
 
-<img src="https://share-cdn.picrew.me/shareImg/org/202108/426722_MR21qmJ2.png" align="right" alt="Rafa-img" height="150em" >
+<img src="https://media1.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e47myoexq6k1sfk5ul6uw3bi0xie80u9ixkajtjrsx4&rid=giphy.gif&ct=s" align="right" alt="Rafa-img" height="150em" >
 <h2>print("Olá! Sou Maria Clara, bem-vindo(a) ao meu perfil.")</h2>
 
 
