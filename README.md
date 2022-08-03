@@ -49,4 +49,3 @@
 
 </div>
 
-![Snake animation](https://github.com/ClaraCosta/ClaraCosta/blob/output/github-contribution-grid-snake.svg)
