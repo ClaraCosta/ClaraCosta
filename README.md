@@ -1,12 +1,11 @@
 
 <img src="https://media1.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e47myoexq6k1sfk5ul6uw3bi0xie80u9ixkajtjrsx4&rid=giphy.gif&ct=s" align="right" alt="Rafa-img" height="150em" >
-<h2>print("Olá! Sou Maria Clara, bem-vindo(a) ao meu perfil.")</h2>
+<h4>print("Olá! Sou Maria Clara, bem-vindo(a) ao meu perfil.")</h4>
 
 
 #### Sobre mim:
 
-- 🐍 Estudando Python
-- 💻 Aprendendo Javascript, html, css
+- 💻 Aprendendo Cypress, Javascript, Typescript
 - 👩‍💻 Disposta a aprender novas tecnologias
 - 🧠 Always open to work!
 
@@ -20,16 +19,7 @@
  
  
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="Clara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Clara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Clara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Clara-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" align="center" alt="Rafa-CSS" height="30" width="40" >
 
-
-</div>
 
 <div>
   
