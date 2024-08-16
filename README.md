@@ -26,7 +26,7 @@
 <h3 align="center">Professional information</h3>
 <p align="center"> 📖 <b>Currently learning</b> - Java, Javascript, Python</p>
 <p align="center"> 🔨 <b>Tools</b> - Cypress, Selenium, REST Assured, Postman</p>
-<p align="center"> 💼 <b>Currently working on <b>Fácil Tecnologia</b> and acting as <b>Quality Assurance</b> and <b>Digital Products</b></p>
+<p align="center"> 💼 Currently working on <b>Fácil Tecnologia</b> and acting with <b>Quality Assurance</b> and <b>Digital Products</b></p>
 <br>
 
 <h3 align="center">Competencies</h3>
