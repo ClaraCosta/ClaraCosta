@@ -1,17 +1,15 @@
 <br>
 
+<h1 align="center">
+ Clara Costa 
+
 <p align="center">
-  <b>Clara Costa</b>
-<br>
- <img alt="Coding GIF" align="center" width="100" height="auto" src="https://avatars.githubusercontent.com/u/89088484?v=4"> 
- <br>
  <a href="https://www.linkedin.com/in/claracostadev/"> <a href="mailto:claracostarc@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"> 
 <a href="https://www.linkedin.com/in/claracostadev/"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-</p>
+</p> </h1>
 
------
 
  
 
