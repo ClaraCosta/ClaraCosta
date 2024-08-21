@@ -27,8 +27,12 @@
 <p align="center"> 💼 Currently working on <b>Fácil Tecnologia</b> and acting with <b>Quality Assurance</b> and <b>Digital Products</b></p>
 <br>
 
-<h3 align="center">Competencies</h3>
-<p align="center"> 🚀 <b>Access in: </b>https://www.linkedin.com/in/claracostadev/details/certifications/</p>
+<h3 align="center">Competencies / Certifications</h3>
+<p align="center"> 🚀 <b>Linkedin: </b> <a href="https://www.linkedin.com/in/claracostadev/details/certifications/">My certifications on Linkedin</p>
+ <p align="center"> 🚀 <b>Test Automation University: </b> <a href="https://testautomationu.applitools.com/certificate/?id=7cfe186d">My certifications on Test Automation University</p>
+ <p align="center"> 🚀 <b>Digital Inovation One: </b> <a href="https://www.dio.me/users/claracostarc">My certifications and competencies on Digital Inovation One</p>
+  
+ <a href="https://www.linkedin.com/in/claracostadev/">
 <br>
 
 <h3 align="center"</h3>My Github Stats
