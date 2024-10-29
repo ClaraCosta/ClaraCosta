@@ -16,7 +16,7 @@
  <h3 align="center">Wellcome my profile!</h3>
  
 <p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="https://gifdb.com/images/high/lofi-girl-balcony-laptop-music-hbhlpqtbvs1llj1h.webp"/>
+  <img alt="Coding GIF" width="300" height="auto" src=""/>
 </p>
 <br>
 
