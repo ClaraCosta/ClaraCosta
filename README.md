@@ -24,7 +24,7 @@
 <h3 align="center">Professional information</h3>
 <p align="center"> 📖 <b>Currently learning</b> - Java, Javascript, Python</p>
 <p align="center"> 🔨 <b>Tools</b> - Cypress, Selenium, REST Assured, Postman</p>
-<p align="center"> 💼 Currently working on <b>CoreAI</b> and acting with <b>Quality Assurance</b> and <b>Digital Products</b></p>
+<p align="center"> 💼 Currently working on <b>CoreAI</b> and acting with <b>Full Stack Development & Hyperautomation</b></p>
 <br>
 
 <h3 align="center">Competencies / Certifications</h3>
