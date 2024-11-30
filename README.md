@@ -16,8 +16,7 @@
  <h3 align="center">Wellcome my profile!</h3>
  
 <p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src=""/>
-</p>
+  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="700" >
 <br>
 
 
