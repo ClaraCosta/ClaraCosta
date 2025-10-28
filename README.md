@@ -25,7 +25,7 @@
 
 <p align="center">
 🚀 I'm a Full Stack Developer passionate about creating efficient, scalable and innovative web solutions. <br>
-💡 Currently working at <b>CoreAI</b>, specializing in <b>Full Stack Development</b>, <b>RPA</b> (Robotic Process Automation), and <b>Process Automation</b>.
+💡 Currently working at <b>Tec2Cloud</b>, specializing in <b>Full Stack Development</b>, <b>RPA</b> (Robotic Process Automation), and <b>Artificial Intelligence</b>.
 </p>
 
 <p align="center">
